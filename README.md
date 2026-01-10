@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/shrutiroy17/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shrutiroy17/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shrutiroy17/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/shrutiroy17/leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/shrutiroy17/leetcode/tree/master/2540-minimum-common-value) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/shrutiroy17/leetcode/tree/master/0392-is-subsequence) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shrutiroy17/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,8 +67,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/shrutiroy17/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/shrutiroy17/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shrutiroy17/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Counting
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/shrutiroy17/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shrutiroy17/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
