@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shrutiroy17/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0344-reverse-string](https://github.com/shrutiroy17/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/shrutiroy17/leetcode/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/shrutiroy17/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/shrutiroy17/leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/shrutiroy17/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/shrutiroy17/leetcode/tree/master/0392-is-subsequence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shrutiroy17/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Dynamic Programming
