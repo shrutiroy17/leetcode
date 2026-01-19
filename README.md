@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shrutiroy17/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shrutiroy17/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shrutiroy17/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/shrutiroy17/leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/shrutiroy17/leetcode/tree/master/3561-resulting-string-after-adjacent-removals) |
 ## Dynamic Programming
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shrutiroy17/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shrutiroy17/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shrutiroy17/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/shrutiroy17/leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Counting
 |  |
 | ------- |
