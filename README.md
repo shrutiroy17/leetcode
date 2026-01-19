@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shrutiroy17/leetcode/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/shrutiroy17/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/shrutiroy17/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shrutiroy17/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shrutiroy17/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/shrutiroy17/leetcode/tree/master/2465-number-of-distinct-averages) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/shrutiroy17/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/shrutiroy17/leetcode/tree/master/0392-is-subsequence) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shrutiroy17/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/shrutiroy17/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shrutiroy17/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shrutiroy17/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shrutiroy17/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/shrutiroy17/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/shrutiroy17/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shrutiroy17/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Stack
 |  |
