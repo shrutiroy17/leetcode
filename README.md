@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/shrutiroy17/leetcode/tree/master/0278-first-bad-version) |
 | [1004-max-consecutive-ones-iii](https://github.com/shrutiroy17/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shrutiroy17/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2540-minimum-common-value](https://github.com/shrutiroy17/leetcode/tree/master/2540-minimum-common-value) |
@@ -178,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/shrutiroy17/leetcode/tree/master/0912-sort-an-array) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/shrutiroy17/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
