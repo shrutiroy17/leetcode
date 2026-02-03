@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/shrutiroy17/leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/shrutiroy17/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/shrutiroy17/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/shrutiroy17/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/shrutiroy17/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shrutiroy17/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shrutiroy17/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/shrutiroy17/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/shrutiroy17/leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/shrutiroy17/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/shrutiroy17/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shrutiroy17/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shrutiroy17/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/shrutiroy17/leetcode/tree/master/2465-number-of-distinct-averages) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shrutiroy17/leetcode/tree/master/0204-count-primes) |
+| [0973-k-closest-points-to-origin](https://github.com/shrutiroy17/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Enumeration
 |  |
 | ------- |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/shrutiroy17/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shrutiroy17/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/shrutiroy17/leetcode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/shrutiroy17/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -198,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shrutiroy17/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shrutiroy17/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/shrutiroy17/leetcode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/shrutiroy17/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -230,4 +235,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shrutiroy17/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shrutiroy17/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/shrutiroy17/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/shrutiroy17/leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
