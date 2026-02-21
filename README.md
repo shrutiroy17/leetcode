@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/shrutiroy17/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/shrutiroy17/leetcode/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/shrutiroy17/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/shrutiroy17/leetcode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/shrutiroy17/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/shrutiroy17/leetcode/tree/master/0739-daily-temperatures) |
 | [0821-shortest-distance-to-a-character](https://github.com/shrutiroy17/leetcode/tree/master/0821-shortest-distance-to-a-character) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/shrutiroy17/leetcode/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/shrutiroy17/leetcode/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/shrutiroy17/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/shrutiroy17/leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/shrutiroy17/leetcode/tree/master/0767-reorganize-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/shrutiroy17/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/shrutiroy17/leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/shrutiroy17/leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/shrutiroy17/leetcode/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/shrutiroy17/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/shrutiroy17/leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/shrutiroy17/leetcode/tree/master/0767-reorganize-string) |
 | [0905-sort-array-by-parity](https://github.com/shrutiroy17/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/shrutiroy17/leetcode/tree/master/0912-sort-an-array) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shrutiroy17/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/shrutiroy17/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/shrutiroy17/leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/shrutiroy17/leetcode/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/shrutiroy17/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shrutiroy17/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -222,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/shrutiroy17/leetcode/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/shrutiroy17/leetcode/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/shrutiroy17/leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/shrutiroy17/leetcode/tree/master/0767-reorganize-string) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shrutiroy17/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Recursion
@@ -248,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shrutiroy17/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/shrutiroy17/leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/shrutiroy17/leetcode/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/shrutiroy17/leetcode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shrutiroy17/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/shrutiroy17/leetcode/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/shrutiroy17/leetcode/tree/master/0912-sort-an-array) |
