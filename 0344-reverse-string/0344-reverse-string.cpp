@@ -1,12 +1,11 @@
 class Solution {
 public:
+    void revHelper(vector<char>& s,int l,int r){
+        if(l>=r) return;
+        swap(s[l],s[r]);
+        revHelper(s,l+1,r-1);
+    }
     void reverseString(vector<char>& s) {
-        int i = 0;
-        int j = s.size()-1;
-        while(i<j){
-            swap(s[i],s[j]);
-            i++;
-            j--;
-        }
+        revHelper(s,0,s.size()-1);
     }
 };
