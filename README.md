@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shrutiroy17/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/shrutiroy17/leetcode/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/shrutiroy17/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/shrutiroy17/leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/shrutiroy17/leetcode/tree/master/0409-longest-palindrome) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shrutiroy17/leetcode/tree/master/0022-generate-parentheses) |
 | [0264-ugly-number-ii](https://github.com/shrutiroy17/leetcode/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/shrutiroy17/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/shrutiroy17/leetcode/tree/master/0509-fibonacci-number) |
@@ -341,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/shrutiroy17/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/shrutiroy17/leetcode/tree/master/0342-power-of-four) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shrutiroy17/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
