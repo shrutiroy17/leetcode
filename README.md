@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shrutiroy17/leetcode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/shrutiroy17/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/shrutiroy17/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shrutiroy17/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/shrutiroy17/leetcode/tree/master/0739-daily-temperatures) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shrutiroy17/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shrutiroy17/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shrutiroy17/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shrutiroy17/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -357,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/shrutiroy17/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/shrutiroy17/leetcode/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/shrutiroy17/leetcode/tree/master/0131-palindrome-partitioning) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shrutiroy17/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
