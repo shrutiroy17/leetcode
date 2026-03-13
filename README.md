@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shrutiroy17/leetcode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/shrutiroy17/leetcode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/shrutiroy17/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0264-ugly-number-ii](https://github.com/shrutiroy17/leetcode/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/shrutiroy17/leetcode/tree/master/0392-is-subsequence) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shrutiroy17/leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/shrutiroy17/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/shrutiroy17/leetcode/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/shrutiroy17/leetcode/tree/master/0264-ugly-number-ii) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shrutiroy17/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shrutiroy17/leetcode/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
