@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/shrutiroy17/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/shrutiroy17/leetcode/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/shrutiroy17/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shrutiroy17/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shrutiroy17/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0204-count-primes](https://github.com/shrutiroy17/leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shrutiroy17/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shrutiroy17/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shrutiroy17/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shrutiroy17/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shrutiroy17/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shrutiroy17/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shrutiroy17/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shrutiroy17/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shrutiroy17/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shrutiroy17/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/shrutiroy17/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shrutiroy17/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shrutiroy17/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shrutiroy17/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shrutiroy17/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shrutiroy17/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shrutiroy17/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -373,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shrutiroy17/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shrutiroy17/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shrutiroy17/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shrutiroy17/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/shrutiroy17/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shrutiroy17/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shrutiroy17/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
