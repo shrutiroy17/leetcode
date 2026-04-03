@@ -11,14 +11,14 @@
  */
 class Solution {
 public:
-    vector<vector<int>> res;
+    vector<vector<int>> ans;
     void fun(TreeNode* root, int sum,int t,vector<int>&temp){
         if(root==NULL) return;
         sum += root->val;
         temp.push_back(root->val);
         if(root->left==NULL && root->right==NULL){
             if(sum==t){
-                res.push_back(temp);
+                ans.push_back(temp);
             }
             temp.pop_back();
             return;
@@ -32,6 +32,6 @@ public:
         int sum = 0;
         vector<int>temp;
         fun(root,sum,targetSum,temp);
-        return res;
+        return ans;
     }
 };
