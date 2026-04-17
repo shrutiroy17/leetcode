@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/shrutiroy17/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shrutiroy17/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shrutiroy17/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/shrutiroy17/leetcode/tree/master/0047-permutations-ii) |
 | [0074-search-a-2d-matrix](https://github.com/shrutiroy17/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shrutiroy17/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shrutiroy17/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/shrutiroy17/leetcode/tree/master/0047-permutations-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shrutiroy17/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shrutiroy17/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shrutiroy17/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/shrutiroy17/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shrutiroy17/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shrutiroy17/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/shrutiroy17/leetcode/tree/master/0047-permutations-ii) |
 | [0113-path-sum-ii](https://github.com/shrutiroy17/leetcode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/shrutiroy17/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/shrutiroy17/leetcode/tree/master/0216-combination-sum-iii) |
