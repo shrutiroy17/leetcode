@@ -6,11 +6,14 @@ public:
         int left = 0;
         int right = n - 1;
         for (int i = n - 1; i >= 0; i--) {
-            if (abs(nums[left]) > abs(nums[right])) {
-                result[i] = nums[left] * nums[left];
+            int a1 = nums[left]*nums[left];
+            int a2 = nums[right]*nums[right];
+            if(a1>=a2){
+                result[i] = a1;
                 left++;
-            } else {
-                result[i] = nums[right] * nums[right];
+            }
+            else{
+                result[i] = a2;
                 right--;
             }
         }
