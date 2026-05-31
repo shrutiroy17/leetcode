@@ -6,11 +6,13 @@ public:
         unordered_map<char, int> mpp;
         for (int high = 0; high < n; high++) {
             mpp[s[high]]++;
-            while (mpp.size() < (high - low + 1)) {
+            int k = high - low + 1;
+            while (mpp.size() < k) {
                 mpp[s[low]]--;
                 if (mpp[s[low]] == 0)
                     mpp.erase(s[low]);
                 low++;
+                k = high - low + 1;
             }
             ans = max(ans, high - low + 1);
         }
