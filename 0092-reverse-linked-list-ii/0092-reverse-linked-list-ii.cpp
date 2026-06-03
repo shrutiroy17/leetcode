@@ -11,34 +11,31 @@
 class Solution {
 public:
     ListNode* reverseBetween(ListNode* head, int left, int right) {
-        if(!head || left == right){
+        if(head == NULL || left == right)
             return head;
-        }
-        int times = right-left+1;
-        ListNode* temp = head;
+        int pos = 1 ; 
+        ListNode* t = head;
         ListNode* before = NULL;
-        int pos = 1;
         while(pos<left){
-            before = temp; 
-            temp = temp->next;
+            before = t ; 
+            t = t->next ;
             pos++;
         }
-        //pos = left 
-        //before = 1
-        //temp = node at left 
+        //t points to node from which reversal starts 
+        ListNode* curr = t ; 
         ListNode* prev = NULL;
-        ListNode* curr = temp;
+        int times = right - left + 1;
         while(times--){
-            ListNode* nextNode = curr->next;
+            ListNode* nex = curr->next;
             curr->next = prev;
             prev = curr;
-            curr = nextNode;
+            curr = nex;
         }
-        temp->next = curr;
-        if (before != nullptr) {
-            before->next = prev;
-            return head;
-        }
-        return prev;
+        if(before)
+        before->next = prev;
+        else
+        head = prev;
+        t->next = curr;
+        return head;
     }
 };
