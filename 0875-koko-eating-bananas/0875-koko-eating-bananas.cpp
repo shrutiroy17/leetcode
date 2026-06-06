@@ -3,7 +3,7 @@ public:
     long long findHours(vector<int>& a, int speed) {
         long long hr = 0;
         for (int x : a) {
-            hr += (x + speed - 1) / speed;
+            hr += (x+speed-1)/speed;
         }
         return hr;
     }
