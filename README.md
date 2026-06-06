@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/shrutiroy17/leetcode/tree/master/2540-minimum-common-value) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/shrutiroy17/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/shrutiroy17/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2574-left-and-right-sum-differences](https://github.com/shrutiroy17/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2974-minimum-number-game](https://github.com/shrutiroy17/leetcode/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shrutiroy17/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/shrutiroy17/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shrutiroy17/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1991-find-the-middle-index-in-array](https://github.com/shrutiroy17/leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2574-left-and-right-sum-differences](https://github.com/shrutiroy17/leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Binary Search
 |  |
 | ------- |
