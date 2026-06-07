@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shrutiroy17/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/shrutiroy17/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shrutiroy17/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/shrutiroy17/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/shrutiroy17/leetcode/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/shrutiroy17/leetcode/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/shrutiroy17/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/shrutiroy17/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shrutiroy17/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/shrutiroy17/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shrutiroy17/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shrutiroy17/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/shrutiroy17/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shrutiroy17/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/shrutiroy17/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0778-swim-in-rising-water](https://github.com/shrutiroy17/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shrutiroy17/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/shrutiroy17/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/shrutiroy17/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0264-ugly-number-ii](https://github.com/shrutiroy17/leetcode/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/shrutiroy17/leetcode/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/shrutiroy17/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/shrutiroy17/leetcode/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/shrutiroy17/leetcode/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/shrutiroy17/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/shrutiroy17/leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/shrutiroy17/leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/shrutiroy17/leetcode/tree/master/0767-reorganize-string) |
