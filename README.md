@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/shrutiroy17/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shrutiroy17/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/shrutiroy17/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/shrutiroy17/leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0778-swim-in-rising-water](https://github.com/shrutiroy17/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shrutiroy17/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/shrutiroy17/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/shrutiroy17/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shrutiroy17/leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/shrutiroy17/leetcode/tree/master/0509-fibonacci-number) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/shrutiroy17/leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0728-self-dividing-numbers](https://github.com/shrutiroy17/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/shrutiroy17/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1399-count-largest-group](https://github.com/shrutiroy17/leetcode/tree/master/1399-count-largest-group) |
