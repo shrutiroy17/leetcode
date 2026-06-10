@@ -1,26 +1,17 @@
 class Solution {
 public:
     bool isValid(string s) {
-        int n = s.size();
-        stack<char> st;
-        for (char c : s) {
-            // if opening - push
-            if ((c == '(') || (c == '{') || (c == '[')) {
+        stack<char>st;
+        for(char c:s){
+            if(c=='(' || c=='[' || c=='{') {
                 st.push(c);
             }
-            // it is a closing bracket
-            else {
-                if (st.empty()) {
+            else{
+                if(st.empty()) return false; // no opening for current closing
+                if((c==')' && st.top()!='(' )|| (c==']' && st.top()!='[') || (c=='}' && st.top()!='{')) {
                     return false;
                 }
-                if ((c == ')' && st.top() == '(') ||
-                    (c == '}' && st.top() == '{') ||
-                    (c == ']' && st.top() == '[')) {
-                    st.pop();
-                } 
-                else {
-                    return false;
-                }
+                st.pop();
             }
         }
         return st.empty();
