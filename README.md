@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/shrutiroy17/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/shrutiroy17/leetcode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/shrutiroy17/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/shrutiroy17/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/shrutiroy17/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0739-daily-temperatures](https://github.com/shrutiroy17/leetcode/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/shrutiroy17/leetcode/tree/master/0778-swim-in-rising-water) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/shrutiroy17/leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shrutiroy17/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shrutiroy17/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/shrutiroy17/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/shrutiroy17/leetcode/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/shrutiroy17/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0905-sort-array-by-parity](https://github.com/shrutiroy17/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/shrutiroy17/leetcode/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/shrutiroy17/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/shrutiroy17/leetcode/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/shrutiroy17/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/shrutiroy17/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/shrutiroy17/leetcode/tree/master/0767-reorganize-string) |
 | [0905-sort-array-by-parity](https://github.com/shrutiroy17/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/shrutiroy17/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shrutiroy17/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/shrutiroy17/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0658-find-k-closest-elements](https://github.com/shrutiroy17/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/shrutiroy17/leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0778-swim-in-rising-water](https://github.com/shrutiroy17/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shrutiroy17/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shrutiroy17/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/shrutiroy17/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/shrutiroy17/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/shrutiroy17/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0930-binary-subarrays-with-sum](https://github.com/shrutiroy17/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shrutiroy17/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shrutiroy17/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -352,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/shrutiroy17/leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/shrutiroy17/leetcode/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/shrutiroy17/leetcode/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/shrutiroy17/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/shrutiroy17/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shrutiroy17/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/shrutiroy17/leetcode/tree/master/0743-network-delay-time) |
