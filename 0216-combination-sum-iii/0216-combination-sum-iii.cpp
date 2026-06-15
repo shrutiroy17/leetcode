@@ -1,16 +1,21 @@
 class Solution {
 public:
-    void fun(int start,int k ,int n , vector<int>&diary,vector<vector<int>>&res){
-        if(k==0 && n==0){
+    void fun(int sum,int k ,int n , int idx,vector<int>&diary,vector<vector<int>>&res){
+        if(k==0 && sum==n){
             res.push_back(diary);
             return;
         }
-        if (k == 0 || n < 0) return;
-        for(int i=start;i<=9;i++){
-            diary.push_back(i);
-            fun(i+1,k-1,n-i,diary,res);
+        if(idx>9 || k<0) return;
+        fun(sum,k,n,idx+1,diary,res);
+        if(sum+idx<=n){
+            sum += idx;
+            diary.push_back(idx);
+            fun(sum,k-1,n,idx+1,diary,res);
             diary.pop_back();
+            sum -= idx;
+            return;
         }
+        return;
     }
     vector<vector<int>> combinationSum3(int k, int n) {
         /*->start from 1 , keep tab of a variable named sum which is incremented every time an element is added to sum 
@@ -18,7 +23,7 @@ public:
         */
         vector<int>diary;
         vector<vector<int>>res;
-        fun(1,k,n,diary,res);
+        fun(0,k,n,1,diary,res);
         return res;
     }
 };
