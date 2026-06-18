@@ -32,8 +32,9 @@ public:
                     q.push(t->right);
                 }
             }
-            res.insert(res.begin(),temp);
+            res.push_back(temp);
         }
+        reverse(res.begin(),res.end());
         return res;
     }
 };
