@@ -19,31 +19,24 @@ public:
             return {};
         }
         q.push(root);
-        int leftToRight = 1;
+        bool rev = false;
         while (!q.empty()) {
             int lvlSize = q.size();
-            int first = 0;
-            int last = lvlSize - 1;
-            vector<int> temp(lvlSize);
+            vector<int> temp;
             while (lvlSize--) {
                 TreeNode* t = q.front();
                 q.pop();
-                if (leftToRight == 1) {
-                    temp[first] = t->val;
-                    first++;
-                } else {
-                    temp[last] = t->val;
-                    last--;
-                }
-                if (t->left != NULL) {
-                    q.push(t->left);
-                }
-                if (t->right != NULL) {
-                    q.push(t->right);
-                }
+                temp.push_back(t->val);
+                if(t->left!=NULL) q.push(t->left);
+                if(t->right!=NULL) q.push(t->right);
             }
-            leftToRight = 1 - leftToRight;
+            if(rev){
+                reverse(temp.begin(),temp.end());
+                res.push_back(temp);
+            }
+            else
             res.push_back(temp);
+            rev = !rev;
         }
         return res;
     }
