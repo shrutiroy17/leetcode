@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/shrutiroy17/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/shrutiroy17/leetcode/tree/master/0767-reorganize-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/shrutiroy17/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shrutiroy17/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1189-maximum-number-of-balloons](https://github.com/shrutiroy17/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shrutiroy17/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1399-count-largest-group](https://github.com/shrutiroy17/leetcode/tree/master/1399-count-largest-group) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/shrutiroy17/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0951-flip-equivalent-binary-trees](https://github.com/shrutiroy17/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/shrutiroy17/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shrutiroy17/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/shrutiroy17/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Design
 |  |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/shrutiroy17/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0951-flip-equivalent-binary-trees](https://github.com/shrutiroy17/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/shrutiroy17/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shrutiroy17/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/shrutiroy17/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Data Stream
 |  |
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/shrutiroy17/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/shrutiroy17/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0951-flip-equivalent-binary-trees](https://github.com/shrutiroy17/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shrutiroy17/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1631-path-with-minimum-effort](https://github.com/shrutiroy17/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
@@ -593,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/shrutiroy17/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/shrutiroy17/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/shrutiroy17/leetcode/tree/master/0994-rotting-oranges) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shrutiroy17/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1631-path-with-minimum-effort](https://github.com/shrutiroy17/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## String Matching
 |  |
