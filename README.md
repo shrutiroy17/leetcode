@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shrutiroy17/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/shrutiroy17/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shrutiroy17/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/shrutiroy17/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1991-find-the-middle-index-in-array](https://github.com/shrutiroy17/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/shrutiroy17/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/shrutiroy17/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/shrutiroy17/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shrutiroy17/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shrutiroy17/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1833-maximum-ice-cream-bars](https://github.com/shrutiroy17/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shrutiroy17/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/shrutiroy17/leetcode/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shrutiroy17/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/shrutiroy17/leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/shrutiroy17/leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/shrutiroy17/leetcode/tree/master/0767-reorganize-string) |
+| [1833-maximum-ice-cream-bars](https://github.com/shrutiroy17/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shrutiroy17/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3689-maximum-total-subarray-value-i](https://github.com/shrutiroy17/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Recursion
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/shrutiroy17/leetcode/tree/master/0912-sort-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/shrutiroy17/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Interactive
 |  |
 | ------- |
