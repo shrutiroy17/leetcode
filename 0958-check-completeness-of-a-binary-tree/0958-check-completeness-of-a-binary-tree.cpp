@@ -11,25 +11,18 @@
  */
 class Solution {
 public:
-    bool seenNull = false;
+    int countNodes(TreeNode* root){
+        if(!root) return 0;
+        return 1+countNodes(root->left)+countNodes(root->right);
+    }
+    bool dfs(TreeNode* root,int i,int total){
+        if(!root) return true;
+        if(i>total) return false;
+        return dfs(root->left,2*i,total) && dfs(root->right,2*i+1,total);
+    }
     bool isCompleteTree(TreeNode* root) {
-        if(root==NULL) return true;
-        queue<TreeNode*>q;
-        q.push(root);
-        while(!q.empty()){
-            TreeNode* t = q.front();
-            q.pop();
-            if(t==NULL){
-                seenNull = true;
-            }
-            else{
-                if(seenNull){
-                    return false;
-                }
-                q.push(t->left);
-                q.push(t->right);
-            }
-        }
-        return true;
+        int totalNodes = countNodes(root);
+        int i = 1 ; 
+        return dfs(root,i,totalNodes);
     }
 };
