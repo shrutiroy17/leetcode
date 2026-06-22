@@ -12,13 +12,6 @@ public:
         need['o']=2;
         need['n']=1;
         int res = INT_MAX;
-        for(auto i: need){
-            char c = i.first;
-            int fneed = i.second;
-            int fhave = have[c];
-            int times = fhave/fneed;
-            res = min(res,times);
-        }
-        return res;
+        return min({have['b'],have['a'],have['l']/2,have['o']/2,have['n']});
     }
 };
