@@ -14,7 +14,7 @@ public:
     bool ans = true;
     int getHeight(TreeNode* root){
         if(root==NULL) return 0;
-        if(!ans) return 0; 
+        //if(!ans) return 0; 
         int l = getHeight(root->left);
         int r = getHeight(root->right);
         if(abs(l-r)>1) ans = false;
