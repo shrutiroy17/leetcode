@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/shrutiroy17/leetcode/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shrutiroy17/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/shrutiroy17/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shrutiroy17/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/shrutiroy17/leetcode/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/shrutiroy17/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shrutiroy17/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shrutiroy17/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/shrutiroy17/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1991-find-the-middle-index-in-array](https://github.com/shrutiroy17/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/shrutiroy17/leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shrutiroy17/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shrutiroy17/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/shrutiroy17/leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/shrutiroy17/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shrutiroy17/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -385,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shrutiroy17/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/shrutiroy17/leetcode/tree/master/0912-sort-an-array) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shrutiroy17/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -628,4 +633,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/shrutiroy17/leetcode/tree/master/0692-top-k-frequent-words) |
+## Segment Tree
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shrutiroy17/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
