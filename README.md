@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shrutiroy17/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1189-maximum-number-of-balloons](https://github.com/shrutiroy17/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shrutiroy17/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shrutiroy17/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1399-count-largest-group](https://github.com/shrutiroy17/leetcode/tree/master/1399-count-largest-group) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shrutiroy17/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/shrutiroy17/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shrutiroy17/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/shrutiroy17/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shrutiroy17/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shrutiroy17/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shrutiroy17/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2418-sort-the-people](https://github.com/shrutiroy17/leetcode/tree/master/2418-sort-the-people) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shrutiroy17/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/shrutiroy17/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shrutiroy17/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shrutiroy17/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shrutiroy17/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shrutiroy17/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shrutiroy17/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/shrutiroy17/leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
