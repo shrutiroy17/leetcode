@@ -18,9 +18,12 @@ public:
             int count = x.second;
             pair<int,string>p = {count,word};
             if(pq.size()<k) pq.push(p);
-            else if(count>pq.top().first || count==pq.top().first && word<pq.top().second ){
-                pq.pop();
-                pq.push(p);
+            else{
+                if(count>pq.top().first || (count==pq.top().first && word<pq.top().second) ){
+                    pq.pop();
+                    pq.push(p);
+                }
+                else continue;
             }
         }
         while(!pq.empty()){
