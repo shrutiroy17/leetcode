@@ -2,7 +2,8 @@ class Solution {
 public:
     struct cmp{
         bool operator() (const pair<int,int>& a, const pair<int,int>& b){
-            return a.first<b.first; // map heap automated
+            if(a.first!=b.first) return a.first<b.first; // map heap automated
+            return a.second>b.second;
         }
     };
     vector<int> findClosestElements(vector<int>& arr, int k, int x) {
@@ -13,7 +14,7 @@ public:
             if(pq.size()<k){
                 pq.push({dist,p});
             }
-            else if(dist<pq.top().first){
+            else if(dist<pq.top().first || (dist==pq.top().first && p<pq.top().second)){
                 pq.pop();
                 pq.push({dist,p});
             }
