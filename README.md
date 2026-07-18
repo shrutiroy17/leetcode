@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/shrutiroy17/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shrutiroy17/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/shrutiroy17/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shrutiroy17/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/shrutiroy17/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/shrutiroy17/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/shrutiroy17/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/shrutiroy17/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/shrutiroy17/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1399-count-largest-group](https://github.com/shrutiroy17/leetcode/tree/master/1399-count-largest-group) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shrutiroy17/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shrutiroy17/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Enumeration
 |  |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shrutiroy17/leetcode/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shrutiroy17/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Simulation
 |  |
 | ------- |
