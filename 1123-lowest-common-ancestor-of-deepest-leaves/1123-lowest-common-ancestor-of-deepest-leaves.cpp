@@ -11,20 +11,19 @@
  */
 class Solution {
 public:
-    int findDepth(TreeNode* node){
+    int height(TreeNode* node){
         if(node==NULL) return 0;
-        return 1+max(findDepth(node->left),findDepth(node->right));
-    }
-    TreeNode* fun(TreeNode* root,int depth,int maxD){
-        if(root==NULL) return NULL;
-        if(depth==maxD) return root;
-        TreeNode* left = fun(root->left,depth+1,maxD);
-        TreeNode* right = fun(root->right,depth+1,maxD);
-        if(left && right) return root;
-        return left?left:right;
+        int leftH = height(node->left);
+        int rightH = height(node->right);
+        return 1+max(leftH,rightH);
     }
     TreeNode* lcaDeepestLeaves(TreeNode* root) {
-        int maxD = findDepth(root);
-        return fun(root,1,maxD);
+        if(root==NULL) return root;
+        int leftH = height(root->left);
+        int rightH = height(root->right);
+        if(leftH==rightH) return root;
+        else if(leftH>rightH) return lcaDeepestLeaves(root->left);
+        else
+        return lcaDeepestLeaves(root->right);
     }
 };
