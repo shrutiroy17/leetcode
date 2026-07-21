@@ -20,7 +20,9 @@ public:
             if(sum==t){
                 ans.push_back(temp);
             }
+            
             temp.pop_back();
+            sum -= root->val;
             return;
         }
         fun(root->left,sum,t,temp);
