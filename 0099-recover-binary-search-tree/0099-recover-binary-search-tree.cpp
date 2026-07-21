@@ -11,41 +11,26 @@
  */
 class Solution {
 public:
-    TreeNode* prev = NULL;
-    TreeNode* g11 = NULL;
-    TreeNode* g12 = NULL;
-    TreeNode* g21 = NULL;
-    TreeNode* g22 = NULL;
-    int galat = 0;
-    void fun(TreeNode* root){
-        if(root==NULL) return;
-        fun(root->left);
-        if(prev==NULL) prev = root;
-        else{
-            if(root->val<=prev->val){
-                if(galat==0){
-                    g11 = prev;
-                    g12 = root; 
-                    galat++;
+    void markWrong(TreeNode* &node,TreeNode* &prev,TreeNode* &start,TreeNode* &end){
+        if(!node) return;
+        markWrong(node->left,prev,start,end);
+        if(prev){
+            if(node->val<prev->val){
+                if(!start){
+                    start = prev;
                 }
-                else{
-                    g21 = prev;
-                    g22 = root;
-                    galat++;
-                }
+                end = node;
             }
-            prev = root;
         }
-        fun(root->right);
-        return;
+        prev = node;
+        markWrong(node->right,prev,start,end);
     }
     void recoverTree(TreeNode* root) {
-        fun(root);
-        if(galat==1){
-            swap(g11->val,g12->val);
-        }
-        else{
-            swap(g11->val,g22->val);
-        }
+        TreeNode* prev = nullptr;
+        TreeNode* start = nullptr;
+        TreeNode* end = nullptr;
+        markWrong(root,prev,start,end);
+        swap(start->val,end->val);
+        return;
     }
 };
