@@ -1,22 +1,23 @@
 class Solution {
 public:
     int networkDelayTime(vector<vector<int>>& times, int n, int k) {
-        vector<vector<pair<int,int>>>adj(n);
+        vector<int>dist(n+1,INT_MAX);
+        vector<vector<pair<int,int>>>adj(n+1);
         for(int i=0;i<times.size();i++){
-            int src = times[i][0]-1;
-            int dest = times[i][1]-1;
-            int wt = times[i][2];
+            vector<int>t = times[i];
+            int src = t[0];
+            int dest = t[1];
+            int wt = t[2];
             adj[src].push_back({dest,wt});
         }
-        priority_queue<pair<int, int>,vector<pair<int, int>>,greater<pair<int, int>>> pq;
-        pq.push({0,k-1});
-        vector<int>dist(n,INT_MAX);
-        dist[k-1] = 0;
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>pq;
+        pq.push({0,k});
+        dist[k] = 0;
         while(!pq.empty()){
             pair<int,int>p = pq.top();
             pq.pop();
-            int d = p.first;
             int node = p.second;
+            int d = p.first;
             if(d>dist[node]) continue;
             for(int i=0;i<adj[node].size();i++){
                 int neigh = adj[node][i].first;
@@ -27,8 +28,8 @@ public:
                 }
             }
         }
-        int res = 0;
-        for(int i=0;i<dist.size();i++){
+        int res = INT_MIN ;
+        for(int i=1;i<=n;i++){
             if(dist[i]==INT_MAX) return -1;
             res = max(res,dist[i]);
         }
