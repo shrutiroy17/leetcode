@@ -2,7 +2,7 @@ class Solution {
 public:
     int fun(vector<int>&a,int n,vector<vector<int>>&dp){
         for(int i=n-1;i>=0;i--){
-            for(int j=-1;j<i;j++){
+            for(int j=-1;j<n;j++){
                 if(j==-1 || a[i]>a[j]){
                     dp[i][j+1] = max(dp[i+1][j+1],1+dp[i+1][i+1]);
                 }
