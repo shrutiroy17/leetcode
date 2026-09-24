@@ -5,15 +5,17 @@ public:
         stack<char>st;
         string ans;
         for(int i=0;i<n;i++){
-            if(st.empty()){
+            if(st.empty()) {
                 st.push(s[i]);
                 continue;
             }
-            if(st.top()==s[i]){
+            else if(s[i]==st.top()){
                 st.pop();
                 continue;
             }
-            st.push(s[i]);
+            else{
+                st.push(s[i]);
+            }
         }
         while(!st.empty()){
             ans+=st.top();
