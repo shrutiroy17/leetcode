@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/shrutiroy17/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shrutiroy17/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shrutiroy17/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shrutiroy17/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shrutiroy17/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shrutiroy17/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2418-sort-the-people](https://github.com/shrutiroy17/leetcode/tree/master/2418-sort-the-people) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shrutiroy17/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shrutiroy17/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shrutiroy17/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shrutiroy17/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/shrutiroy17/leetcode/tree/master/3561-resulting-string-after-adjacent-removals) |
 ## Monotonic Stack
 |  |
@@ -731,4 +733,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shrutiroy17/leetcode/tree/master/0062-unique-paths) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shrutiroy17/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
