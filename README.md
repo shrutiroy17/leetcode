@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/shrutiroy17/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/shrutiroy17/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/shrutiroy17/leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shrutiroy17/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shrutiroy17/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/shrutiroy17/leetcode/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shrutiroy17/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shrutiroy17/leetcode/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shrutiroy17/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
 | ------- |
